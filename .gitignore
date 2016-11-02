@@ -22,3 +22,6 @@ light_ws2812\Objects\*
 *.app
 
 .DS_Store
+
+*.d
+*.lst
